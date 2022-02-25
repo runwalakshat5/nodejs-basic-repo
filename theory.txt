@@ -66,7 +66,7 @@ Advantages
 1. Easy to configure
 2. Allows us to define routes
 3. Allows us to create Rest API Server
-4. East to connect to databases such as MongoDB, Redis, MySQL, MSSQL, Postgresql
+4. Easy to connect to databases such as MongoDB, Redis, MySQL, MSSQL, Postgresql
 
 MEAN - MongoDB ExpressJS Angular NodeJS
 
