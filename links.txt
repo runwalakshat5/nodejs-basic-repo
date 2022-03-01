@@ -21,3 +21,7 @@ https://mongoosejs.com/
 SQL Server NodeJS Connectivity Issues
 -------------------------------------
 http://mytechlearning.blogspot.com/2017/08/nodejs-mssql-connectionerror-failed-to.html
+
+HTTP Status Codes
+------------------
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
